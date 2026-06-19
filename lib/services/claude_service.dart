@@ -1,0 +1,1 @@
+[Full content from previous knowledge - Claude service with system prompt]
